@@ -4,7 +4,7 @@ export const locations: Location[] = [
   {
     name: 'Eloff-Delmas',
     address: 'Eloff-Delmas Road, Mpumalanga',
-    contacts: ['012-345-6789', '012-345-6790', '012-345-6791'],
+    contacts: ['012-345-6789', '012-345-6790', '083-294-3391'],
     isUpcoming: false,
     coordinates: { lat: -26.0757, lng: 28.9506 }
   },
