@@ -23,7 +23,7 @@ export const locations: Location[] = [
     coordinates: { lat: -24.7007, lng: 28.4163 }
   },
   {
-    name: 'Kliprevier Alberton',
+    name: 'Alberton',
     address: 'Kliprevier Road, Next to Mall of the South, Gauteng',
     contacts: '068 616 1100',
     isUpcoming: true,
