@@ -11,14 +11,14 @@ export const locations: Location[] = [
   {
     name: 'Bella-Bella',
     address: 'Bella-Bella Main Road, Limpopo',
-    contacts: ['013-345-6789', '013-345-6790', '013-345-6791'],
+    contacts: ['082 335 6245'],
     isUpcoming: false,
     coordinates: { lat: -24.8859, lng: 28.2871 }
   },
   {
     name: 'Modi-Molle',
     address: 'Modi-Molle Central, Limpopo',
-    contacts: ['014-345-6789', '014-345-6790', '014-345-6791'],
+    contacts: ['082 335 6245'],
     isUpcoming: false,
     coordinates: { lat: -24.7007, lng: 28.4163 }
   },
